@@ -15,6 +15,11 @@ Repositiorio con los principales hooks de React vistos en el curso de Fernando H
 * useMemo
 * useCallback
 * Hacer uso de la API de https://www.breakingbadapi.com
+* useReducer
+* Reducers
+* Teoría de un reducer
+* Aplicación de TODOs
+* CRUD local
 
 ## Tecnologías utilizadas 🛠️
 * Vite
